@@ -43,7 +43,6 @@ st.markdown(
 - **Zeros in target?** We compare models with and without those rows; sometimes zeros represent special cases.
 - **Why transforms?** They can stabilize variance and improve model fit.
 - **Which model to pick?** Prefer **lower RMSE** and **higher R²** on the test set.
-- **My results disappeared?** They won’t now—everything persists during clicks.
 """
 )
 
