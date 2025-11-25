@@ -18,7 +18,7 @@ RESULTS_XLSX = os.path.join(FILES_DIR, r"scotia_results.xlsx")
 CORR_IMG = os.path.join(FILES_DIR, r"HeatMapCorr.png")  # saved image from Modeler
 
 st.set_page_config(page_title="BCN_modelr (State 1)", layout="wide")
-st.title("BCN_modelr (State 1) — Read-only Presentation View")
+st.title("BCN_modeler (State 1) — Read-only Presentation View")
 
 st.caption(
     "This page is fixed. "
