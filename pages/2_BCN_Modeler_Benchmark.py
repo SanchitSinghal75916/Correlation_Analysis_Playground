@@ -13,7 +13,7 @@ import seaborn as sns
 # ----------------------------
 # Fixed file locations (adjust names if yours differ)
 # ----------------------------
-FILES_DIR = r"/files"
+FILES_DIR = r"files/"
 RESULTS_XLSX = os.path.join(FILES_DIR, r"scotia_results.xlsx")
 CORR_IMG = os.path.join(FILES_DIR, r"HeatMapCorr.png")  # saved image from Modeler
 
